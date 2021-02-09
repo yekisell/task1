@@ -1,0 +1,12 @@
+commit 621fe382c7b52f08c761f68237b5fa2dd9ab1a33 (HEAD -> master)
+Author: Aleksey <probablyfiend@gmail.com>
+Date:   Tue Feb 9 23:01:00 2021 +0300
+
+    add task1/status.txt
+
+commit a886cca0ebc9de547d4db66160b058c7bc1b8518
+Author: Aleksey <probablyfiend@gmail.com>
+Date:   Tue Feb 9 22:59:03 2021 +0300
+
+    add .gitignore
+
